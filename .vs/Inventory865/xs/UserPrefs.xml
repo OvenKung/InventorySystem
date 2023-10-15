@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{A488202D-EB60-4581-AFF5-4B67E0B2824D}|InventoryStstem">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Inventory865/Pages/Rangsit/CreateRangsit.cshtml.cs">
+    <Files>
+      <File FileName="Inventory865/Data/ApplicationDbContext.cs" Line="13" Column="2" />
+      <File FileName="Inventory865/Pages/Rangsit/CreateRangsit.cshtml.cs" Line="3" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Inventory865" expanded="True">
+            <Node name="Inventory865" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Rangsit" expanded="True">
+                  <Node name="CreateRangsit.cshtml" expanded="True">
+                    <Node name="CreateRangsit.cshtml.cs" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Inventory865 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>

@@ -1,0 +1,85 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InventoryStstem
+build_property.RootNamespace = InventoryStstem
+build_property.ProjectDir = E:\InventoryStstem-main\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\InventoryStstem-main
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/InventoryStstem-main/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Rangsit/CreateRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxDcmVhdGVSYW5nc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Rangsit/DeleteRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxEZWxldGVSYW5nc2l0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Rangsit/EditRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxFZGl0UmFuZ3NpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Rangsit/IndexRangsit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmFuZ3NpdFxJbmRleFJhbmdzaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Siam/CreateSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxDcmVhdGVTaWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Siam/DeleteSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxEZWxldGVTaWFtLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Siam/EditSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxFZGl0U2lhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Siam/IndexSiam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2lhbVxJbmRleFNpYW0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/InventoryStstem-main/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-bv8drtcmiv
